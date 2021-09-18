@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "MAZ2MHl+b6N9ZIYXCff9pnLtfe8pXFoNhgiZMH3UlhECqPmBiaoYyQ2V8692ROF41fhTxHxjPyT4d/Jw9+L3Ag==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\lucas\\OneDrive\\Documentos\\cursos\\SPRO\\BackEnd\\DayOnept02\\DayOnept02.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\lucas\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\3.1.2\\microsoft.aspnetcore.app.ref.3.1.2.nupkg.sha512"
+  ],
+  "logs": []
+}
